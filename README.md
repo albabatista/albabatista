@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alba Batista</h1>
-<h3 align="center">A Junior Java Developer, experiencied in development of microservices with Spring Boot</h3>
+<h3 align="center">a Junior Java Developer, experiencied in development of microservices with Spring Boot</h3>
 
-- 🌱 I’m currently learning **Frameworks, Microservices Patters, Good Practices**
+- 👩🏽‍💻 I'm working at **VIEWNEXT** (an IBM subsidiary)
+
+- 🏦 I'm woring on **Santander CIB Confirming International** Project
+  
+- 🌱 I’m currently learning **frameworks, microservices patters, good Practices**
 
 - 👨‍💻 All of my projects are available at [https://github.com/albabatista?tab=repositories](https://github.com/albabatista?tab=repositories)
 
