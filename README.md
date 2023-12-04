@@ -11,6 +11,8 @@
 
 - 💬 Ask me about **Java, Spring Boot, Kafka, Redis, AWS S3**
 
+- 👍🏽 People often describe me as a **curious, proactive, and dynamic** person
+
 - 📫 How to reach me **devalbabatista@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
