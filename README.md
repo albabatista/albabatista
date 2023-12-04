@@ -3,7 +3,7 @@
 
 - 👩🏽‍💻 I'm working at **VIEWNEXT** (an IBM subsidiary)
 
-- 🏦 I'm woring on **Santander CIB Confirming International** Project
+- 🏦 I'm working on **Santander CIB Confirming International** Project
   
 - 🌱 I’m currently learning **frameworks, microservices patters, good Practices**
 
