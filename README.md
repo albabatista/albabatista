@@ -7,7 +7,7 @@
   
 - 🌱 I’m currently learning **frameworks, microservices patters, good Practices**
 
-- 👨‍💻 All of my projects are available at [https://github.com/albabatista?tab=repositories](https://github.com/albabatista?tab=repositories)
+- 💻 All of my projects are available at [https://github.com/albabatista?tab=repositories](https://github.com/albabatista?tab=repositories)
 
 - 💬 Ask me about **Java, Spring Boot, Kafka, Redis, AWS S3**
 
