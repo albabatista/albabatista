@@ -3,7 +3,7 @@
 
 - 👩🏽‍💻 I'm working at **VIEWNEXT** (an IBM subsidiary)
   
-- 🌱 I’m currently learning **frameworks, microservices patters, good Practices**
+- 🌱 I’m currently learning **frameworks, microservices patterns, good practices**
 
 - 💻 My portfolio is available at [https://github.com/albabatista?tab=repositories](https://github.com/albabatista?tab=repositories)
 
