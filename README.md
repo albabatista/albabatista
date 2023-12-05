@@ -2,8 +2,6 @@
 <h3 align="center">a Junior Java Developer, experiencied in development of microservices with Spring Boot</h3>
 
 - 👩🏽‍💻 I'm working at **VIEWNEXT** (an IBM subsidiary)
-
-- 🏦 I'm working on **Santander CIB Confirming International** project
   
 - 🌱 I’m currently learning **frameworks, microservices patters, good Practices**
 
