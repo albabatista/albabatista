@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋🏽, I'm Alba Batista</h1>
+<h1 align="center">Hi 👋🏽, I'm Alba Batista Santos</h1>
 <h3 align="center">a Java Developer, experiencied in development of microservices with Spring Boot</h3>
 
 - 👩🏽‍💻 I'm working on **CityWay** (personal project)
